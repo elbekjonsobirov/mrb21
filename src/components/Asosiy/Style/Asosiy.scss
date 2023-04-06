@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.asosiy-page {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #fafafa;
+    .asosiy-section {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 50px 0;
+        background-color: white;
+        .asosiy-left {
+            width: 50%;
+            height: auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            gap: 20px;
+            .asosiy-title {
+                width: 80%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                font-family: 'Roboto', sans-serif;
+                font-size: 60px;
+                font-weight: 700;
+                line-height: 73.98px;
+                color: rgba(33, 31, 84, 1);
+            }
+            .asosiy-commit {
+                width: 80%;
+                height: auto;
+                font-family: 'Roboto', sans-serif;
+                font-weight: 400;
+                line-height: 30.01px;
+                color: rgba(110, 113, 145, 1);
+            }
+            .buttons {
+                width: 80%;
+                height: auto;
+                Button {
+                    height: 50px;
+                    background-color: rgba(0, 117, 255, 1);
+                    color: white;
+                }
+            }
+        }
+        .asosiy-right {
+            width: 50%;
+            height: auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            img {
+                width: 100%;
+            }
+        }
+    }
+    .asosiy-hisob {
+        width: 60%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 20px;
+        padding: 30px 0;
+        img {
+            width: 30%;
+        }
+        .asosiy-hisob-title {
+            font-family: 'Roboto', sans-serif;
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 57.98px;
+            color: rgba(33, 31, 84, 1);
+        }
+        .asosiy-hisob-commit {
+            font-family: 'Roboto', sans-serif;
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 30.01px;
+            text-align: center;
+            color: rgba(110, 113, 145, 1);
+        }
+    }
+}
