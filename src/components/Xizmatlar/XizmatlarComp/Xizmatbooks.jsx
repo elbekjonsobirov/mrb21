@@ -18,14 +18,14 @@ export default class Xizmatbooks extends Component {
               <span>Gmail elektron pochtasidan foydalanish</span>
             </h1>
             <h1>Manba:
-              <a target="_blank" href="https://youtu.be/52uN1WIcPCs">
+              <a target="blank" href="https://youtu.be/52uN1WIcPCs">
                 Najot Ta'lim
               </a>
             </h1>
             <h1>Video tili:
               <span>O'zbekcha</span>
             </h1>
-            <a target="_blank" href="https://youtu.be/52uN1WIcPCs" className='youtube-link'>YouTube orqali ko'rish</a>
+            <a target="blank" href="https://youtu.be/52uN1WIcPCs" className='youtube-link'>YouTube orqali ko'rish</a>
           </div>
         </div>
         <p className="classroom-comment">
@@ -41,20 +41,20 @@ export default class Xizmatbooks extends Component {
               <span>The Most Comprehensive Google Meet Tutorial</span>
             </h1>
             <h1>Manba:
-              <a target="_blank" href="https://youtu.be/g6zYF7fbJk8">
+              <a target="blank" href="https://youtu.be/g6zYF7fbJk8">
                 Kevin Stratvert
               </a>
             </h1>
             <h1>Video tili:
               <span>Inglizcha</span>
             </h1>
-            <a target="_blank" href="https://youtu.be/g6zYF7fbJk8" className='youtube-link'>YouTube orqali ko'rish</a>
+            <a target="blank" href="https://youtu.be/g6zYF7fbJk8" className='youtube-link'>YouTube orqali ko'rish</a>
           </div>
         </div>
         <p className="classroom-comment">
           Topshiriqlarni baholash uchun hujjatlarni oldindan va keyinroq jo'natadigan yuborish tugmasi bilan ishlov beriladi. Shogird qog'ozni yaratadi va keyinchalik uni "o'qituvchiga" aylantiradi, bu uning docga tahrir qilish imkoniyatini o'chirib qo'yadi, ammo faqatgina ko'rinishga ega bo'ladi. (O'quvchilarning Google Drive papkasida hali ham mavjud.) O'qituvchi hujjatni belgilaydi va sinfni belgilaydi va uni tahrirlashga qaytara oladigan o'quvchiga qaytaradi.
         </p>
-        <a className='class-links' href="https://gmail.google.com/" target="_blank">Google Gmail</a>
+        <a className='class-links' href="https://gmail.google.com/" target="blank">Google Gmail</a>
       </div>
     )
   }

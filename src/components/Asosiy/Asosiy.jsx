@@ -41,7 +41,7 @@ export default class Asosiy extends Component {
             Hisobingizda istalgan vaqt istalgan qurilmada avtomatik kiritish,
             moslashtirilgan tavsiyalar kabi foydali funksiyalardan foydalanishingiz mumkin.
           </p>
-          <a href="https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fmyaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dcreate-account-button&flowName=GlifWebSignIn&flowEntry=SignUp" target="_blank">
+          <a href="https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fmyaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dcreate-account-button&flowName=GlifWebSignIn&flowEntry=SignUp" target="blank">
             <Button variant="contained">google hisob ochish</Button>
           </a>
         </div>

@@ -18,12 +18,12 @@ export default class Xizmatclass extends Component {
               <span>GOOGLE CLASROOMNI O`RGANIB CHIQAMIZ </span>
             </h1>
             <h1>Manba:
-              <a target="_blank" href="https://youtu.be/Bghi6M7Wx1Q">IT PARK</a>
+              <a target="blank" href="https://youtu.be/Bghi6M7Wx1Q">IT PARK</a>
             </h1>
             <h1>Video tili:
               <span>O'zbekcha</span>
             </h1>
-            <a target="_blank" href="https://youtu.be/Bghi6M7Wx1Q" className='youtube-link'>YouTube orqali ko'rish</a>
+            <a target="blank" href="https://youtu.be/Bghi6M7Wx1Q" className='youtube-link'>YouTube orqali ko'rish</a>
           </div>
         </div>
         <p className="classroom-comment">
@@ -39,20 +39,20 @@ export default class Xizmatclass extends Component {
               <span>The NEW Google Classroom</span>
             </h1>
             <h1>Manba:
-              <a target="_blank" href="https://www.youtube.com/watch?v=M6L-nZGIUTE">
+              <a target="blank" href="https://www.youtube.com/watch?v=M6L-nZGIUTE">
                 Technology for Teachers and Students
               </a>
             </h1>
             <h1>Video tili:
               <span>Inglizcha</span>
             </h1>
-            <a target="_blank" href="https://www.youtube.com/watch?v=M6L-nZGIUTE" className='youtube-link'>YouTube orqali ko'rish</a>
+            <a target="blank" href="https://www.youtube.com/watch?v=M6L-nZGIUTE" className='youtube-link'>YouTube orqali ko'rish</a>
           </div>
         </div>
         <p className="classroom-comment">
           Topshiriqlarni baholash uchun hujjatlarni oldindan va keyinroq jo'natadigan yuborish tugmasi bilan ishlov beriladi. Shogird qog'ozni yaratadi va keyinchalik uni "o'qituvchiga" aylantiradi, bu uning docga tahrir qilish imkoniyatini o'chirib qo'yadi, ammo faqatgina ko'rinishga ega bo'ladi. (O'quvchilarning Google Drive papkasida hali ham mavjud.) O'qituvchi hujjatni belgilaydi va sinfni belgilaydi va uni tahrirlashga qaytara oladigan o'quvchiga qaytaradi.
         </p>
-        <a className='class-links' href="https://classroom.google.com/" target="_blank">Google Classroom</a>
+        <a className='class-links' href="https://classroom.google.com/" target="blank">Google Classroom</a>
       </div>
     )
   }

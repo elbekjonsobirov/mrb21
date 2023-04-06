@@ -18,7 +18,7 @@ export default class Xizmatlar extends Component {
 
 
   umumiyBtn = () => {
-    const { umumiyActive, classActive, meetActive, docsActive, booksActive } = this.state
+    // const { umumiyActive, classActive, meetActive, docsActive, booksActive } = this.state
 
     this.setState({
       umumiyActive: true,
@@ -30,7 +30,7 @@ export default class Xizmatlar extends Component {
     })
   }
   classBtn = () => {
-    const { umumiyActive, classActive, meetActive, docsActive, booksActive } = this.state
+    // const { umumiyActive, classActive, meetActive, docsActive, booksActive } = this.state
 
     this.setState({
       classActive: true,
@@ -42,7 +42,7 @@ export default class Xizmatlar extends Component {
     })
   }
   meetBtn = () => {
-    const { umumiyActive, classActive, meetActive, docsActive, booksActive } = this.state
+    // const { umumiyActive, classActive, meetActive, docsActive, booksActive } = this.state
 
     this.setState({
       meetActive: true,
@@ -54,7 +54,7 @@ export default class Xizmatlar extends Component {
     })
   }
   docsBtn = () => {
-    const { umumiyActive, classActive, meetActive, docsActive, booksActive } = this.state
+    // const { umumiyActive, classActive, meetActive, docsActive, booksActive } = this.state
 
     this.setState({
       docsActive: true,
@@ -66,7 +66,7 @@ export default class Xizmatlar extends Component {
     })
   }
   booksBtn = () => {
-    const { umumiyActive, classActive, meetActive, docsActive, booksActive } = this.state
+    // const { umumiyActive, classActive, meetActive, docsActive, booksActive } = this.state
 
     this.setState({
       booksActive: true,

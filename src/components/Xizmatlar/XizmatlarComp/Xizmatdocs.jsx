@@ -18,14 +18,14 @@ export default class Xizmatdocs extends Component {
               <span>Google meet dasturidan foydalanish</span>
             </h1>
             <h1>Manba:
-              <a target="_blank" href="https://youtu.be/I1I7A2c7lL4">
+              <a target="blank" href="https://youtu.be/I1I7A2c7lL4">
                 Salom Dunyo
               </a>
             </h1>
             <h1>Video tili:
               <span>O'zbekcha</span>
             </h1>
-            <a target="_blank" href="https://youtu.be/I1I7A2c7lL4" className='youtube-link'>YouTube orqali ko'rish</a>
+            <a target="blank" href="https://youtu.be/I1I7A2c7lL4" className='youtube-link'>YouTube orqali ko'rish</a>
           </div>
         </div>
         <p className="classroom-comment">
@@ -43,20 +43,20 @@ export default class Xizmatdocs extends Component {
               <span>The Most Comprehensive Google Meet Tutorial</span>
             </h1>
             <h1>Manba:
-              <a target="_blank" href="https://youtu.be/z9i_h-WMQ68">
+              <a target="blank" href="https://youtu.be/z9i_h-WMQ68">
                 Howfinity
               </a>
             </h1>
             <h1>Video tili:
               <span>Inglizcha</span>
             </h1>
-            <a target="_blank" href="https://youtu.be/z9i_h-WMQ68" className='youtube-link'>YouTube orqali ko'rish</a>
+            <a target="blank" href="https://youtu.be/z9i_h-WMQ68" className='youtube-link'>YouTube orqali ko'rish</a>
           </div>
         </div>
         <p className="classroom-comment">
           Topshiriqlarni baholash uchun hujjatlarni oldindan va keyinroq jo'natadigan yuborish tugmasi bilan ishlov beriladi. Shogird qog'ozni yaratadi va keyinchalik uni "o'qituvchiga" aylantiradi, bu uning docga tahrir qilish imkoniyatini o'chirib qo'yadi, ammo faqatgina ko'rinishga ega bo'ladi. (O'quvchilarning Google Drive papkasida hali ham mavjud.) O'qituvchi hujjatni belgilaydi va sinfni belgilaydi va uni tahrirlashga qaytara oladigan o'quvchiga qaytaradi.
         </p>
-        <a className='class-links' href="https://docs.google.com/" target="_blank">Google Docs</a>
+        <a className='class-links' href="https://docs.google.com/" target="blank">Google Docs</a>
       </div>
     )
   }

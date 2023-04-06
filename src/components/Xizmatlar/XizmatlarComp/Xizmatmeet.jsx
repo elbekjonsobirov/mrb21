@@ -18,12 +18,12 @@ export default class Xizmatmeet extends Component {
               <span>Google meet dasturidan foydalanish</span>
             </h1>
             <h1>Manba:
-              <a target="_blank" href="https://youtu.be/zDWaWzqz3jI">Rasul Atamuratov</a>
+              <a target="blank" href="https://youtu.be/zDWaWzqz3jI">Rasul Atamuratov</a>
             </h1>
             <h1>Video tili:
               <span>O'zbekcha</span>
             </h1>
-            <a target="_blank" href="https://youtu.be/zDWaWzqz3jI" className='youtube-link'>YouTube orqali ko'rish</a>
+            <a target="blank" href="https://youtu.be/zDWaWzqz3jI" className='youtube-link'>YouTube orqali ko'rish</a>
           </div>
         </div>
         <p className="classroom-comment">
@@ -39,20 +39,20 @@ export default class Xizmatmeet extends Component {
               <span>The Most Comprehensive Google Meet Tutorial</span>
             </h1>
             <h1>Manba:
-              <a target="_blank" href="https://youtu.be/u-Hob5pjJSA">
+              <a target="blank" href="https://youtu.be/u-Hob5pjJSA">
                 saperis
               </a>
             </h1>
             <h1>Video tili:
               <span>Inglizcha</span>
             </h1>
-            <a target="_blank" href="https://youtu.be/u-Hob5pjJSA" className='youtube-link'>YouTube orqali ko'rish</a>
+            <a target="blank" href="https://youtu.be/u-Hob5pjJSA" className='youtube-link'>YouTube orqali ko'rish</a>
           </div>
         </div>
         <p className="classroom-comment">
           Topshiriqlarni baholash uchun hujjatlarni oldindan va keyinroq jo'natadigan yuborish tugmasi bilan ishlov beriladi. Shogird qog'ozni yaratadi va keyinchalik uni "o'qituvchiga" aylantiradi, bu uning docga tahrir qilish imkoniyatini o'chirib qo'yadi, ammo faqatgina ko'rinishga ega bo'ladi. (O'quvchilarning Google Drive papkasida hali ham mavjud.) O'qituvchi hujjatni belgilaydi va sinfni belgilaydi va uni tahrirlashga qaytara oladigan o'quvchiga qaytaradi.
         </p>
-        <a className='class-links' href="https://meet.google.com/" target="_blank">Google Meet</a>
+        <a className='class-links' href="https://meet.google.com/" target="blank">Google Meet</a>
       </div>
     )
   }

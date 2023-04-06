@@ -24,10 +24,10 @@ export default class Footer extends Component {
                             Ijtimoiy tarmoqlar
                         </h1>
                         <span>
-                            <a href="https://t.me/mrB21" target="_blank">
+                            <a href="https://t.me/mrB21" target="blank">
                                 <i class="fa-brands fa-telegram"></i>
                             </a>
-                            <a href="https://www.instagram.com/mrb180416" target="_blank">
+                            <a href="https://www.instagram.com/mrb180416" target="blank">
                                 <i class="fa-brands fa-instagram"></i>
                             </a>
                             <a href="qmuhammad2001@gmail.com" target="_blank">

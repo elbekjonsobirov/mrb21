@@ -24,7 +24,7 @@ export default class Header extends Component {
                                 </Link>
                             </li>
                             <li>
-                                <a href="https://news.google.com/topstories?hl=en-US&gl=US&ceid=US:en" target="_blank">
+                                <a href="https://news.google.com/topstories?hl=en-US&gl=US&ceid=US:en" target="blank">
                                     Yangiliklar
                                 </a>
                             </li>

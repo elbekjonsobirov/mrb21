@@ -37,14 +37,14 @@ export default class Muallif extends Component {
           </div>
         </div>
 
-          <h1 className="work">
-            Ish tajribam
-            <span></span>
-          </h1>
+        <h1 className="work">
+          Ish tajribam
+          <span></span>
+        </h1>
         <div className="dev-about-card">
           <div className="left">
             <h2>
-              <h4></h4>
+              <span></span>
             </h2>
             <div className="left-content">
               <p className="talim">
@@ -60,7 +60,7 @@ export default class Muallif extends Component {
           </div>
           <div className="right">
             <h2>
-              <h4></h4>
+              <span></span>
             </h2>
             <div className="right-content">
               <p className="talim">
