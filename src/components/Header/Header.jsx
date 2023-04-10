@@ -23,6 +23,11 @@ export default class Header extends Component {
                                     Xizmatlar
                                 </Link>
                             </li>
+                            <li >
+                                <Link to="/fanresurs">
+                                    Fan resurslari
+                                </Link>
+                            </li>
                             <li>
                                 <a href="https://news.google.com/topstories?hl=en-US&gl=US&ceid=US:en" target="blank">
                                     Yangiliklar

@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { Route, Routes } from 'react-router-dom'
 import './App.css'
 import Asosiy from './components/Asosiy/Asosiy'
+import Fanresurs from './components/FanResurs/Fanresurs'
 import Footer from './components/Footer/Footer'
 import Header from './components/Header/Header'
 import Muallif from './components/Muallif/Muallif'
@@ -23,11 +24,16 @@ export default class App extends Component {
           } />
         </Routes>
         <Routes>
+          <Route path='/fanresurs' element={
+            <Fanresurs />
+          } />
+        </Routes>
+        <Routes>
           <Route path='/muallif' element={
             <Muallif />
           } />
         </Routes>
-        <Footer/>
+        <Footer />
       </div>
     )
   }

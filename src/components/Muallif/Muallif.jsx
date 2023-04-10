@@ -17,7 +17,7 @@ export default class Muallif extends Component {
             </p>
             <h3>
               <span>Ism:</span>
-              Qurbonov Muhammad
+              Mardiyev Botirjon
             </h3>
             <h3>
               <span>Yosh:</span>
