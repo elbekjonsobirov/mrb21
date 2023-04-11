@@ -1,0 +1,63 @@
+.fan-allcard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.fan-resurs {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 2px solid rgb(169, 169, 169);
+    padding: 20px;
+    width: 800px;
+    gap: 10px;
+}
+
+.fan-resurs-num {
+    text-transform: uppercase;
+    color: #4b4b4b;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.fan-resurs-val {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: rgb(75, 75, 75);
+}
+
+.fan-resurs-val a {
+    font-size: 20px;
+    margin-left: 10px;
+    color: rgb(75, 75, 75);
+}
+
+.fan-resurs-val a span {
+    color: #0075ff;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.fan-resurs-val a span .fa-arrow-down {
+    margin: 0 5px;
+}
+
+.fan-mentor {
+    font-size: 16px;
+    color: rgb(75, 75, 75);
+}
+
+.fan-mentor span {
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-left: 10px;
+}
+
+.fan-name {
+    color: rgb(75, 75, 75);
+}
+
+.fan-name span {
+    text-transform: uppercase;
+    margin-left: 10px;
+}

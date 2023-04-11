@@ -16,7 +16,7 @@ export default class Footer extends Component {
                             Aloqa
                         </h1>
                         <p className="number">
-                            +998 97 575-6785
+                            +998 99 593 06 96
                         </p>
                     </div>
                     <div className="footer-contact">
@@ -24,7 +24,7 @@ export default class Footer extends Component {
                             Ijtimoiy tarmoqlar
                         </h1>
                         <span>
-                            <a href="https://t.me/mrB21" target="blank">
+                            <a href="https://t.me/Mardiyevbotirjon" target="blank">
                                 <i class="fa-brands fa-telegram"></i>
                             </a>
                             <a href="https://www.instagram.com/mrb180416" target="blank">
