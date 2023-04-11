@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import photo from './MuallifImg/muallif.JPG'
+import photo from './MuallifImg/muallif.jpeg'
 import './Style/Muallif.scss'
 
 export default class Muallif extends Component {
